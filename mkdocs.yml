@@ -1,0 +1,8 @@
+site_name: Edmunds Instance
+
+pages:
+
+  - Introduction: index.md
+
+theme:
+  name: 'material'
